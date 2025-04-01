@@ -8,6 +8,15 @@
 
 ![Table6](./Table6.png)
 
+![Table7](./Table7.png)
+
+<p align="center">
+<img src="./Table8.png" alt="Table 8" width="600" height="240">
+</p>
+
+
+![Table9](./Table9.png)
+
 
 ![Figure12](./Figure12.png)
 
@@ -21,8 +30,6 @@
 
 <!-- 
 
-<p align="center">
-<img src="./image/Table1_improved.png" alt="Table 1 Improved" width="600" height="920">
-</p>
+
 
 -->
