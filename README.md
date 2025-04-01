@@ -1,4 +1,4 @@
-# EduAlignLLM
+# You can also check each Figure or Table in the source file.
 
 
 
